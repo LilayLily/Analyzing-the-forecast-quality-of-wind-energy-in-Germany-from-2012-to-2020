@@ -1,4 +1,4 @@
-# Analyzing-the Forecast-Quality of Wind Energy-in-Germany-from-2012-to-2020
+# Analyzing the Forecast Quality of Wind Energy in Germany from 2012 to 2020
 
  
 ## Background and Motivation 
@@ -16,7 +16,7 @@ Derived from the above, it can be said that in the next few years, the focus sho
 
 ## Goals
 
-Against this background, the aim of this project is to analyze the day-ahead forecast quality of wind energy feed-in in the control areas of the German TSOs or for the whole area of Germany for the years 2012 to 2020. Within the analysis, the seasonal fluctuations and also the forecast horizons are taken into account. This approach makes it possible to derive recommendations for action to ensure better forecast quality. 
+Against this background, the aim of this project is to analyze the day-ahead forecast quality of wind energy feed-in in the control areas of the German TSOs and for the whole area of Germany for the years 2012 to 2020. Within the analysis, the seasonal fluctuations and also the forecast horizons are taken into account. This approach makes it possible to derive recommendations for action to ensure better forecast quality. 
 
 ## Structure
 
