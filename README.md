@@ -22,5 +22,5 @@ Against this background, the aim of this project is to analyze the day-ahead for
 
 In the Notebook Data Cleaning the data on which the analysis is based is processed and then imported into a database.
 
-The data set is then analyzed and visualized in [Tableau] (https://public.tableau.com/app/profile/lily1503).
+The data set is then analyzed and visualized in [Tableau](https://public.tableau.com/app/profile/lily1503).
 
